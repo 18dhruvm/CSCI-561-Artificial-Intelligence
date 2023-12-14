@@ -9,12 +9,12 @@ We were asked to solve Traveling Saleman Problem (TSP) using genetic algorithm
 
 ## Homework 2
 
-![Screenshot 2023-12-14 115522](https://github.com/18dhruvm/CSCI-567-Artificial-Intelligence/assets/143168767/2fbae92e-588b-4d5d-8cdd-7a31e16e46d0)
+![Screenshot 2023-12-14 115522](https://github.com/18dhruvm/CSCI-567-Artificial-Intelligence/assets/143168767/2fbae92e-588b-4d5d-8cdd-7a31e16e46d0 |width=200 | height=100)
 
 We had to develop an AI agent to play the game of "Go" on a 5x5 board
 
 ## Homework 3
 
-![Screenshot 2023-12-14 115603](https://github.com/18dhruvm/CSCI-567-Artificial-Intelligence/assets/143168767/e523eb2c-eb7a-4cd0-9075-5d52cd75b969)
+![Screenshot 2023-12-14 115603](https://github.com/18dhruvm/CSCI-567-Artificial-Intelligence/assets/143168767/e523eb2c-eb7a-4cd0-9075-5d52cd75b969 |width=200 | height=100)
 
 This homework asked us to find the hidden states in POMDP model on "Little Princess" and "Speech Recognition"
