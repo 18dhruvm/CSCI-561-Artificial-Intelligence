@@ -3,7 +3,7 @@ Repository containing assignments given in USC CSCI 567 Foundations of Artificia
 
 ## Homework 1
 
-![Screenshot 2023-12-14 114912](https://github.com/18dhruvm/CSCI-567-Artificial-Intelligence/assets/143168767/107a19c1-ad58-43b1-8187-c8d3e90f84ee)
+![Screenshot 2023-12-14 114912](https://github.com/18dhruvm/CSCI-567-Artificial-Intelligence/assets/143168767/107a19c1-ad58-43b1-8187-c8d3e90f84ee |width=200 | height=100)
 
 We were asked to solve Traveling Saleman Problem (TSP) using genetic algorithm
 
